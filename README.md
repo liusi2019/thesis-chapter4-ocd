@@ -1,2 +1,2 @@
 # thesis-chapter4-ocd
-Code for replicates the experimental results in chapter 4
+Code for replicating the experimental results in chapter 4
